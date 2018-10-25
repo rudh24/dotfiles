@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/anirudh/GT/sem1/Advanced-Operating-Systems/Project-1'
+let g:netrw_dirhist_2='/home/anirudh/GT/sem1/Advanced-Operating-Systems/Project-2/AOS2/Combined'
+let g:netrw_dirhist_3='/home/anirudh/GT/sem1/Advanced-Operating-Systems/Project-2/AOS2/PlotData/OpenMP'
