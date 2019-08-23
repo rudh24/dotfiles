@@ -1,0 +1,2 @@
+# make app switcher show only current workspace items [works in 18.04+ only]
+gsettings set org.gnome.shell.app-switcher current-workspace-only true
